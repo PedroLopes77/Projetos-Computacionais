@@ -5,7 +5,6 @@ Bem-vindo ao repositório de Projetos Computacionais! Este repositório reúne d
 Este repositório é uma coletânea de exemplos práticos de código, destinados a servir como referência e inspiração para desenvolvedores de todos os níveis de habilidade. Explore os diferentes diretórios para encontrar projetos que abordam várias áreas da computação, como:
 - Desenvolvimento de jogos
 - Análise de dados
-- Interfaces gráficas
 - Algoritmos e estruturas de dados
 
 # Contato
