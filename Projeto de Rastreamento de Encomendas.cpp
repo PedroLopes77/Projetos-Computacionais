@@ -14,10 +14,8 @@ private:
     std::string localizacao;
 
 public:
-    // Construtor padrão
     Encomenda() : id(""), remetente(""), destinatario(""), status(""), localizacao("") {}
 
-    // Construtor parametrizado
     Encomenda(std::string id, std::string remetente, std::string destinatario)
         : id(id), remetente(remetente), destinatario(destinatario), status("Em processamento"), localizacao("Centro de Distribuição") {}
 
